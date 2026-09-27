@@ -1,0 +1,23 @@
+Variable,Downtown Yonge East,Rustic,Black Creek
+Census tracts,3,2,5
+Tract availability groups,"2 Underserved, 1 Moderate",2 Moderate,"3 Moderate, 2 Well-served"
+Population (2021),18251,9543,21307
+Land area (km2),0.81,2.08,3.45
+Population density (people per km2),22568,4579,6183
+Green space coverage (% of land),3.2,9.7,14.3
+Green space per resident (m2),1.4,21.2,23.1
+Tier 1 share of green space (%),100.0,99.9,82.7
+Tier 2 share of green space (%),0.0,0.1,0.0
+Tier 3 share of green space (%),0.0,0.0,17.3
+Apartments in buildings 5+ storeys (%),96.1,54.5,55.2
+Renter households (%),63.9,62.4,67.4
+"Median household income, tract range ($)","61,600 - 94,000","58,400 - 69,000","50,000 - 83,000"
+"Median household income, pop-weighted avg of tracts ($)",70600,64100,66400
+"Low income prevalence, LIM-AT (%)",21.4,19.1,19.3
+Population aged 0-14 (%),5.5,17.1,18.8
+Population aged 65+ (%),11.0,19.3,14.8
+"Median age, pop-weighted avg of tracts",33.3,41.6,37.7
+Visible minority population (%),56.3,62.9,83.8
+Immigrant population (%),39.0,50.6,58.2
+Recent immigrants 2016-2021 (%),9.0,4.8,8.7
+"Unemployment rate, pop-weighted avg (%)",13.5,18.5,19.5

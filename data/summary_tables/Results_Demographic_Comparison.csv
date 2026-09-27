@@ -1,0 +1,17 @@
+Variable,Underserved,Moderate,Well-served,Severe (Yes),Not severe (No),Citywide
+Number of census tracts,144,288,145,122,455,577
+Population density (people per km2),15899,7329,3417,13458,7151,8485
+Total private dwellings,2522,2196,1667,2291,2105,2144
+Apartments in buildings 5+ storeys (%),45.5,39.5,24.3,38.1,36.9,37.1
+Renter households (%),51.7,44.8,34.9,50.2,42.4,44.1
+Owner households (%),48.3,55.1,65,49.8,57.6,55.9
+"Low income prevalence, LIM-AT (%)",13.9,13.2,11.3,13.2,12.8,12.9
+"Median household income, 2020 ($) - mean of tracts",90987,89621,100001,93980,92199,92573
+"Median household income, 2020 ($) - median of tracts",84000,85000,91000,86000,86000,86000
+Population aged 0-14 (%),12.2,14.3,14.6,12.8,14.1,13.8
+Population aged 65+ (%),16,17.9,19.6,16.5,18.2,17.9
+Median age (years),39.6,41.5,43.3,40.1,41.9,41.5
+Visible minority population (%),44,57,57.5,41.6,57.1,53.9
+Immigrant population (%),39.7,47.7,47.9,38.7,47.7,45.8
+"Recent immigrants, 2016-2021 (%)",7,6.9,5.6,6.4,6.6,6.6
+Unemployment rate (%),12.9,14.5,14.4,12.9,14.4,14.1
