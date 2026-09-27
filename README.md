@@ -13,11 +13,11 @@ This project classifies Toronto's public green spaces into a three-tier typology
 
 | Green space coverage | Green space per resident |
 |---|---|
-| ![Coverage map](maps/01_GreenSpace_Coverage.png) | ![Per capita map](maps/02_GreenSpace_PerCapita.png) |
+| ![Coverage map](maps/GreenSpace_Coverage.png) | ![Per capita map](maps/GreenSpace_PerCapita.png) |
 
 | Green space composition | Availability groups and case study areas |
 |---|---|
-| ![Composition map](maps/03_GreenSpace_Composition.png) | ![Availability map](maps/04_GreenSpace_Availability.png) |
+| ![Composition map](maps/GreenSpace_Composition.png) | ![Availability map](maps/GreenSpace_Availability.png) |
 
 Full-resolution PDF versions are in the [`maps/`](maps/) folder.
 
@@ -97,4 +97,4 @@ Contains information licensed under the Open Government Licence – Toronto. Ada
 ---
 
 **Yilan Hong** · Geospatial Data Science and Environmental Management, University of Toronto Mississauga
-[LinkedIn](#) · [Email](#)
+[LinkedIn](www.linkedin.com/in/yilan-hong-4b10002b1) · [Email](yilan.hong2005@gmail.com)
