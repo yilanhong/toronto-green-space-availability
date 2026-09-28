@@ -97,4 +97,4 @@ Contains information licensed under the Open Government Licence – Toronto. Ada
 ---
 
 **Yilan Hong** · Geospatial Data Science and Environmental Management, University of Toronto Mississauga
-[LinkedIn](www.linkedin.com/in/yilan-hong-4b10002b1) · [Email](yilan.hong2005@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yilan-hong-4b10002b1) · [Email](mailto:yilan.hong2005@gmail.com)
